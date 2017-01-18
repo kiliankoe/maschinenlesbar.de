@@ -1,5 +1,7 @@
 # 🤖📖 maschinenlesbar.de
 
+**Die Seite ist aktuell noch stark WIP**
+
 >  *maschinenlesbar ≠ auf einem Bildschirm lesbar*
 
 Vielen ist das leider nicht klar und daher werden Datensätze oft in maschinell schlecht lesbaren Formaten bereitgestellt.
